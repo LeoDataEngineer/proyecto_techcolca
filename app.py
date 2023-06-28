@@ -1,11 +1,12 @@
 '''Proyecto:
-Se deben consultar, editar, eliminar, y actualizar usuarios. Los campos que debe tener la tabla usuario son: (id, nombre, apellido, estado, pais, ciudad, telefono). Debe ubicarse en un repositorio el código. En el archivo readme del repositorio se debe explicar que base de datos usaron, como se implementó. Si es posible hacer un corto video explicando sería ideal, de no mas de 5 minutos.'''
-
+Se deben consultar, editar, eliminar, y actualizar usuarios. Los campos que debe tener la tabla usuario son: (id, nombre, apellido, estado, pais, ciudad, telefono). Debe ubicarse en un repositorio el código. En el archivo readme del repositorio se debe explicar que base de datos usaron, como se implementó.'''
+#importamos sqlite3 para interactuar con la db 
+#importamos os para obtener las rutas de los archivos en sistema oprativo
 import sqlite3
 import os
 
 
-# Obtener la ruta de la base de datos:
+# Obtener la ruta del archivo python y la ruta del archivo de la base de datos:
 path = os.path.abspath(__file__)
 db_path = os.path.join(os.path.dirname(path), 'databasecrud.db')
 
