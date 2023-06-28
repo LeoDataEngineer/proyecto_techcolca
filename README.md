@@ -2,7 +2,7 @@
 ### Fecha: 26 de Mayo de 2023
 ### Profesor: Arnol 
 ### Alumno: Leomar
-### Academia: Techcolca
+### Academia: TECHCOLCA
 
 ## Descripción del proyecto a realizar:
 <p>
