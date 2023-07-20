@@ -1,8 +1,6 @@
 # Proyecto final del curso de python 
 ### Fecha: 26 de Mayo de 2023
-### Profesor: Arnol 
-### Alumno: LEOMAR
-### Academia: TECHCOLCA
+
 
 ## Descripción del proyecto a realizar:
 <p>
